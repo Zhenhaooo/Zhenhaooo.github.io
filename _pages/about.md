@@ -13,4 +13,4 @@ I am very fortunate to be advised by [Prof. Jiang Bin](https://faculty.sdu.edu.c
 
 You can find my CV here: [Zhenhao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](wangzhenhao12@outlook.com) / [Github](https://github.com/Zhenhaooo) / [Wechat](../images/WeChat.jpg)
+[Email](wangzhenhao12@outlook.com) / [Github](https://github.com/Zhenhaooo) / [Wechat](../images/WeChat.png)
