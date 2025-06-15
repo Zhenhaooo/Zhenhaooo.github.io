@@ -69,30 +69,14 @@
       "name": "Integrating Social Value Orientation and Motion Safety Controller in Autonomous Driving Improving the Safety of Unprotected Left-Turn Behaviour",
       "publisher": "International Conference on Intelligent Transportation Systems (ITSC)",
       "releaseDate": "2025-03-20",
-      "website": "../files/Integrating_Social_Value_Orientation_and_Motion_Safety_Controller_in_Autonomous_Driving_Improving_the_Safety_of_Unprotected_Left-Turn_Behaviour.pdf",
-      // "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "website": "../files/Integrating_Social_Value_Orientation_and_Motion_Safety_Controller_in_Autonomous_Driving_Improving_the_Safety_of_Unprotected_Left-Turn_Behaviour.pdf"
     },
     {
       "name": "Generative Modeling of Adversarial Lane-Change Scenario",
       "publisher": "arXiv",
       "releaseDate": "2025-03-15",
-      "website": "../files/Generative Modeling of Adversarial Lane-Change Scenario.pdf",
-      // "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    // {
-    //   "name": "Paper Title Number 3",
-    //   "publisher": "Journal 1",
-    //   "releaseDate": "2015-10-01",
-    //   "website": "http://academicpages.github.io/files/paper3.pdf",
-    //   "summary": "This paper is about the number 3. The number 4 is left for future work."
-    // },
-    // {
-    //   "name": "Paper Title Number 4",
-    //   "publisher": "GitHub Journal of Bugs",
-    //   "releaseDate": "2024-02-17",
-    //   "website": "http://academicpages.github.io/files/paper3.pdf",
-    //   "summary": "This paper is about fixing template issue #693."
-    // }
+      "website": "../files/Generative Modeling of Adversarial Lane-Change Scenario.pdf"
+    }
   ],
   "presentations": [
     {
