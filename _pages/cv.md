@@ -27,11 +27,11 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+<!-- * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
-  
+   -->
 Skills
 ======
 * Skill 1
@@ -39,7 +39,6 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
