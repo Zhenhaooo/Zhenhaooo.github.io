@@ -2,7 +2,7 @@
 title: "Integrating Social Value Orientation and Motion Safety Controller in Autonomous Driving Improving the Safety of Unprotected Left-Turn Behaviour"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2025-03-20-paper-title-number-2
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-03-20
 venue: '2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)'
