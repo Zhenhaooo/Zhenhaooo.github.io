@@ -7,6 +7,7 @@ permalink: /publication/2025-03-20-paper-title-number-2
 date: 2025-03-20
 venue: '2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)'
 paperurl: '../files/Integrating_Social_Value_Orientation_and_Motion_Safety_Controller_in_Autonomous_Driving_Improving_the_Safety_of_Unprotected_Left-Turn_Behaviour.pdf'
+bibtexurl: '../files/bibtex2.bib'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
