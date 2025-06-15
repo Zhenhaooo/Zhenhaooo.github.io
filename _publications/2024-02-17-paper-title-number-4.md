@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Integrating Social Value Orientation and Motion Safety Controller in Autonomous Driving Improving the Safety of Unprotected Left-Turn Behaviour"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4

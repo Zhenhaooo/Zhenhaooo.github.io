@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "Generative Modeling of Adversarial Lane-Change Scenario"
 collection: publications
-category: arxiv
+category: arXiv
 permalink: /publication/2009-10-01-paper-title-number-1
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-3-15
