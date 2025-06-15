@@ -241,7 +241,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: fasle
       related: true
   # _pages
   - scope:
@@ -257,7 +257,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: fasle
       comments: true
   # _publications
   - scope:
@@ -266,7 +266,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: fasle
       comments: true
   # _portfolio
   - scope:
@@ -275,7 +275,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: fasle
       comment: true
   # _talks
   - scope:
@@ -284,8 +284,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
-
+      share: fasle
 
 # Sass/SCSS
 sass:

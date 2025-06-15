@@ -17,25 +17,28 @@ Education
 
 Work experience
 ======
-<!-- * Spring 2024: Academic Pages Collaborator
+* Winter 2024: Autonomous Driving R&D Intern 
   * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Duties includes: Cleaned and processed public datasets (NGSIM, INTERACTION), mined and enhanced data using feature 
+recognition algorithms to identify challenging traffic scenarios, built adversarial training datasets for 
+imitation and reinforcement learning, and successfully trained vehicle models to improve safety decisions; 
+demonstrated strong problem-solving and self-learning skills recognized by the team. 
+  * Supervisor: Weihai Chiyun Network Technology Co., Ltd.
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-<!-- * Summer 2015: Research Assistant
+* Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
-   -->
+  
 Skills
 ======
-* Skill 1
-* Skill 2
+* Python
+* Reinforcement Learning
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
