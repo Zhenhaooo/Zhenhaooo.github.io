@@ -5,7 +5,7 @@ category: arxiv
 permalink: /publication/2009-10-01-paper-title-number-1
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-3-15
-venue: 'preprint 1'
+venue: 'https://arxiv.org/'
 # slidesurl: '../files/slides1.pdf'
 paperurl: '../files/Generative Modeling of Adversarial Lane-Change Scenario.pdf'
 bibtexurl: '../files/bibtex1.bib'
