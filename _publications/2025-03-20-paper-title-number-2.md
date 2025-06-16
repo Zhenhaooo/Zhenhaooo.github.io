@@ -1,5 +1,5 @@
 ---
-title: "Integrating Social Value Orientation and Motion Safety Controller in Autonomous Driving Improving the Safety of Unprotected Left-Turn Behaviour,$$2025-03-20$$"
+title: "Integrating Social Value Orientation and Motion Safety Controller in Autonomous Driving Improving the Safety of Unprotected Left-Turn Behaviour"
 collection: publications
 category: conferences
 permalink: /publication/2025-03-20-paper-title-number-2
