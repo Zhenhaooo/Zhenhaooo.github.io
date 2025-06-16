@@ -1,5 +1,5 @@
 ---
-title: "Generative Modeling of Adversarial Lane-Change Scenario"
+title: "Generative Modeling of Adversarial Lane-Change Scenario,$$2025-03-15$$"
 collection: publications
 category: arXiv
 permalink: /publication/2025-03-15-paper-title-number-1
